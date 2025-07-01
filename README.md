@@ -1,1 +1,1 @@
-# first_practic
+This is my first practice in creating a website for the One project, aimed at training full-time developers.
